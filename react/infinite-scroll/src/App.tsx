@@ -13,7 +13,7 @@ const App = () => {
     }
 
     window.addEventListener('scroll', onScroll);
-// memory cleanup, remove listener
+    // memory cleanup, remove listener
     return () => window.removeEventListener('scroll', onScroll);
   }, [count]);
 
@@ -24,6 +24,7 @@ const App = () => {
   }
   return (
     <>
+      <h1>ash</h1>
       {elements}
     </>
   )
