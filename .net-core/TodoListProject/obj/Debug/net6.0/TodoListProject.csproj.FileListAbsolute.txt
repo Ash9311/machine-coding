@@ -25,3 +25,5 @@ C:\machine-coding\.net-core\TodoListProject\obj\Debug\net6.0\refint\TodoListProj
 C:\machine-coding\.net-core\TodoListProject\obj\Debug\net6.0\TodoListProject.pdb
 C:\machine-coding\.net-core\TodoListProject\obj\Debug\net6.0\TodoListProject.genruntimeconfig.cache
 C:\machine-coding\.net-core\TodoListProject\obj\Debug\net6.0\ref\TodoListProject.dll
+C:\machine-coding\.net-core\TodoListProject\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\machine-coding\.net-core\TodoListProject\bin\Debug\net6.0\StackExchange.Redis.dll
