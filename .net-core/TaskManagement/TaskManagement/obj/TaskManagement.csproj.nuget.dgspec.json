@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\machine-coding\\.net-core\\Todo-webAPI\\Todo-webAPI.csproj": {}
+    "C:\\machine-coding\\.net-core\\TaskManagement\\TaskManagement\\TaskManagement.csproj": {}
   },
   "projects": {
-    "C:\\machine-coding\\.net-core\\Todo-webAPI\\Todo-webAPI.csproj": {
+    "C:\\machine-coding\\.net-core\\TaskManagement\\TaskManagement\\TaskManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\machine-coding\\.net-core\\Todo-webAPI\\Todo-webAPI.csproj",
-        "projectName": "Todo-webAPI",
-        "projectPath": "C:\\machine-coding\\.net-core\\Todo-webAPI\\Todo-webAPI.csproj",
+        "projectUniqueName": "C:\\machine-coding\\.net-core\\TaskManagement\\TaskManagement\\TaskManagement.csproj",
+        "projectName": "TaskManagement",
+        "projectPath": "C:\\machine-coding\\.net-core\\TaskManagement\\TaskManagement\\TaskManagement.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\machine-coding\\.net-core\\Todo-webAPI\\obj\\",
+        "outputPath": "C:\\machine-coding\\.net-core\\TaskManagement\\TaskManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,20 +40,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[6.0.28, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[6.0.28, )"
-            },
-            "Npgsql.EntityFrameworkCore.PostgreSQL": {
-              "target": "Package",
-              "version": "[6.0.22, )"
-            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"

@@ -948,11 +948,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Todo-webAPI\\Todo-webAPI\\Todo-webAPI.csproj",
+      "projectUniqueName": "C:\\machine-coding\\.net-core\\Todo-webAPI\\Todo-webAPI.csproj",
       "projectName": "Todo-webAPI",
-      "projectPath": "C:\\Projects\\Todo-webAPI\\Todo-webAPI\\Todo-webAPI.csproj",
+      "projectPath": "C:\\machine-coding\\.net-core\\Todo-webAPI\\Todo-webAPI.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Todo-webAPI\\Todo-webAPI\\obj\\",
+      "outputPath": "C:\\machine-coding\\.net-core\\Todo-webAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
