@@ -1,0 +1,18 @@
+.calculator-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.table-container{
+    display: flex;
+}
+
+.table-container td{
+    padding:2px;
+}
+
+input[type="button"]{
+    min-width: 50px
+}
